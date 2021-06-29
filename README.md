@@ -1,4 +1,4 @@
-<p align="center">Open Source is for EVERYONE</p>
+<p align="center">FOSS FTW</p>
 
 ---
 
