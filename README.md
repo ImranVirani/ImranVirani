@@ -1,8 +1,1 @@
-<p align="center">FOSS FTW</p>
-
----
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ImranVirani&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ImranVirani&theme=tokyonight" />
-</p>
+Welcome to my Github profile! You can check some of the projects I'm working on and even submit a pull request if you would like. I would be happy to accept contributions.
